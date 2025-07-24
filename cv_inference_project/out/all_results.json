@@ -1,0 +1,836 @@
+{
+  "frame_range": [
+    0,
+    175
+  ],
+  "pairwise_comparisons": [
+    {
+      "frame1": 0,
+      "frame2": 5,
+      "results": {
+        "identity": {
+          "distance_diff": 5.189210891723633,
+          "match_changed": true
+        },
+        "gaze": {
+          "angle_diff": 1.3235471879176646,
+          "flag_changed": false
+        },
+        "headpose": {
+          "yaw_diff": 3.9632355232006606,
+          "pitch_diff": 25.929730607741284,
+          "roll_diff": 2.221451225311781
+        },
+        "phone": {
+          "count_diff": 0
+        }
+      }
+    },
+    {
+      "frame1": 5,
+      "frame2": 10,
+      "results": {
+        "identity": {
+          "distance_diff": 3.004469871520996,
+          "match_changed": false
+        },
+        "gaze": {
+          "angle_diff": 1.3196959625982658,
+          "flag_changed": false
+        },
+        "headpose": {
+          "yaw_diff": 5.534116360285747,
+          "pitch_diff": 24.72285318874163,
+          "roll_diff": 2.824095091462107
+        },
+        "phone": {
+          "count_diff": 0
+        }
+      }
+    },
+    {
+      "frame1": 10,
+      "frame2": 15,
+      "results": {
+        "identity": {
+          "distance_diff": 10.20373249053955,
+          "match_changed": false
+        },
+        "gaze": {
+          "angle_diff": 3.995122618627414,
+          "flag_changed": false
+        },
+        "headpose": {
+          "yaw_diff": 2.265536795731097,
+          "pitch_diff": 20.349605363594357,
+          "roll_diff": 3.5381957544694425
+        },
+        "phone": {
+          "count_diff": 0
+        }
+      }
+    },
+    {
+      "frame1": 15,
+      "frame2": 20,
+      "results": {
+        "identity": {
+          "distance_diff": 1.3503532409667969,
+          "match_changed": false
+        },
+        "gaze": {
+          "angle_diff": 12.804266065286752,
+          "flag_changed": false
+        },
+        "headpose": {
+          "yaw_diff": 9.73573041348188,
+          "pitch_diff": 10.686870295937387,
+          "roll_diff": 10.214664257226511
+        },
+        "phone": {
+          "count_diff": 0
+        }
+      }
+    },
+    {
+      "frame1": 20,
+      "frame2": 25,
+      "results": {
+        "identity": {
+          "distance_diff": Infinity,
+          "match_changed": false
+        },
+        "gaze": {
+          "angle_diff": 12.804266065286752,
+          "flag_changed": false
+        },
+        "headpose": {
+          "yaw_diff": 9.73573041348188,
+          "pitch_diff": 10.686870295937387,
+          "roll_diff": 10.214664257226511
+        },
+        "phone": {
+          "count_diff": 0
+        }
+      }
+    },
+    {
+      "frame1": 25,
+      "frame2": 30,
+      "results": {
+        "identity": {
+          "distance_diff": NaN,
+          "match_changed": false
+        },
+        "gaze": {
+          "angle_diff": 0.0,
+          "flag_changed": false
+        },
+        "headpose": {
+          "yaw_diff": 0.0,
+          "pitch_diff": 0.0,
+          "roll_diff": 0.0
+        },
+        "phone": {
+          "count_diff": 0
+        },
+        "persons": {
+          "count_diff": 0
+        }
+      }
+    },
+    {
+      "frame1": 30,
+      "frame2": 35,
+      "results": {
+        "identity": {
+          "distance_diff": NaN,
+          "match_changed": false
+        },
+        "gaze": {
+          "angle_diff": 0.0,
+          "flag_changed": false
+        },
+        "headpose": {
+          "yaw_diff": 0.0,
+          "pitch_diff": 0.0,
+          "roll_diff": 0.0
+        },
+        "phone": {
+          "count_diff": 0
+        },
+        "persons": {
+          "count_diff": 0
+        }
+      }
+    },
+    {
+      "frame1": 35,
+      "frame2": 40,
+      "results": {
+        "identity": {
+          "distance_diff": NaN,
+          "match_changed": false
+        },
+        "gaze": {
+          "angle_diff": 0.0,
+          "flag_changed": false
+        },
+        "headpose": {
+          "yaw_diff": 0.0,
+          "pitch_diff": 0.0,
+          "roll_diff": 0.0
+        },
+        "phone": {
+          "count_diff": 0
+        },
+        "persons": {
+          "count_diff": 0
+        }
+      }
+    },
+    {
+      "frame1": 40,
+      "frame2": 45,
+      "results": {
+        "identity": {
+          "distance_diff": NaN,
+          "match_changed": false
+        },
+        "gaze": {
+          "angle_diff": 0.0,
+          "flag_changed": false
+        },
+        "headpose": {
+          "yaw_diff": 0.0,
+          "pitch_diff": 0.0,
+          "roll_diff": 0.0
+        },
+        "phone": {
+          "count_diff": 0
+        },
+        "persons": {
+          "count_diff": 0
+        }
+      }
+    },
+    {
+      "frame1": 45,
+      "frame2": 50,
+      "results": {
+        "identity": {
+          "distance_diff": NaN,
+          "match_changed": false
+        },
+        "gaze": {
+          "angle_diff": 0.0,
+          "flag_changed": false
+        },
+        "headpose": {
+          "yaw_diff": 0.0,
+          "pitch_diff": 0.0,
+          "roll_diff": 0.0
+        },
+        "phone": {
+          "count_diff": 0
+        },
+        "persons": {
+          "count_diff": 0
+        }
+      }
+    },
+    {
+      "frame1": 50,
+      "frame2": 55,
+      "results": {
+        "identity": {
+          "distance_diff": NaN,
+          "match_changed": false
+        },
+        "gaze": {
+          "angle_diff": 0.0,
+          "flag_changed": false
+        },
+        "headpose": {
+          "yaw_diff": 0.0,
+          "pitch_diff": 0.0,
+          "roll_diff": 0.0
+        },
+        "phone": {
+          "count_diff": 0
+        },
+        "persons": {
+          "count_diff": 0
+        }
+      }
+    },
+    {
+      "frame1": 55,
+      "frame2": 60,
+      "results": {
+        "identity": {
+          "distance_diff": NaN,
+          "match_changed": false
+        },
+        "gaze": {
+          "angle_diff": 0.0,
+          "flag_changed": false
+        },
+        "headpose": {
+          "yaw_diff": 0.0,
+          "pitch_diff": 0.0,
+          "roll_diff": 0.0
+        },
+        "phone": {
+          "count_diff": 0
+        },
+        "persons": {
+          "count_diff": 0
+        }
+      }
+    },
+    {
+      "frame1": 60,
+      "frame2": 65,
+      "results": {
+        "identity": {
+          "distance_diff": NaN,
+          "match_changed": false
+        },
+        "gaze": {
+          "angle_diff": 0.0,
+          "flag_changed": false
+        },
+        "headpose": {
+          "yaw_diff": 0.0,
+          "pitch_diff": 0.0,
+          "roll_diff": 0.0
+        },
+        "phone": {
+          "count_diff": 0
+        },
+        "persons": {
+          "count_diff": 0
+        }
+      }
+    },
+    {
+      "frame1": 65,
+      "frame2": 70,
+      "results": {
+        "identity": {
+          "distance_diff": Infinity,
+          "match_changed": false
+        },
+        "gaze": {
+          "angle_diff": 43.773095085219346,
+          "flag_changed": true
+        },
+        "headpose": {
+          "yaw_diff": 17.831477824714497,
+          "pitch_diff": 19.80100720363878,
+          "roll_diff": 38.950969005271716
+        },
+        "phone": {
+          "count_diff": 0
+        }
+      }
+    },
+    {
+      "frame1": 70,
+      "frame2": 75,
+      "results": {
+        "identity": {
+          "distance_diff": 3.385519027709961,
+          "match_changed": false
+        },
+        "gaze": {
+          "angle_diff": 7.08047507919045,
+          "flag_changed": false
+        },
+        "headpose": {
+          "yaw_diff": 8.361709616403632,
+          "pitch_diff": 3.282054004285648,
+          "roll_diff": 5.562210899222208
+        },
+        "phone": {
+          "count_diff": 0
+        }
+      }
+    },
+    {
+      "frame1": 75,
+      "frame2": 80,
+      "results": {
+        "identity": {
+          "distance_diff": 3.7675609588623047,
+          "match_changed": false
+        },
+        "gaze": {
+          "angle_diff": 15.765045891919677,
+          "flag_changed": false
+        },
+        "headpose": {
+          "yaw_diff": 11.201930498981893,
+          "pitch_diff": 4.925797372972266,
+          "roll_diff": 18.35777520625642
+        },
+        "phone": {
+          "count_diff": 0
+        }
+      }
+    },
+    {
+      "frame1": 80,
+      "frame2": 85,
+      "results": {
+        "identity": {
+          "distance_diff": 1.556283950805664,
+          "match_changed": false
+        },
+        "gaze": {
+          "angle_diff": 10.941821924823984,
+          "flag_changed": false
+        },
+        "headpose": {
+          "yaw_diff": 1.2797786142867942,
+          "pitch_diff": 8.484287735030314,
+          "roll_diff": 7.07918968720962
+        },
+        "phone": {
+          "count_diff": 0
+        }
+      }
+    },
+    {
+      "frame1": 85,
+      "frame2": 90,
+      "results": {
+        "identity": {
+          "distance_diff": 0.9439945220947266,
+          "match_changed": false
+        },
+        "gaze": {
+          "angle_diff": 4.9708180829905615,
+          "flag_changed": false
+        },
+        "headpose": {
+          "yaw_diff": 4.674095808160178,
+          "pitch_diff": 23.158346901518044,
+          "roll_diff": 14.154803230998382
+        },
+        "phone": {
+          "count_diff": 0
+        }
+      }
+    },
+    {
+      "frame1": 90,
+      "frame2": 95,
+      "results": {
+        "identity": {
+          "distance_diff": 2.728914260864258,
+          "match_changed": false
+        },
+        "gaze": {
+          "angle_diff": 4.2492490390031605,
+          "flag_changed": false
+        },
+        "headpose": {
+          "yaw_diff": 0.6966477039009504,
+          "pitch_diff": 5.470766369491969,
+          "roll_diff": 5.892790306814788
+        },
+        "phone": {
+          "count_diff": 0
+        }
+      }
+    },
+    {
+      "frame1": 95,
+      "frame2": 100,
+      "results": {
+        "identity": {
+          "distance_diff": 2.7828445434570312,
+          "match_changed": false
+        },
+        "gaze": {
+          "angle_diff": 5.032047582368406,
+          "flag_changed": false
+        },
+        "headpose": {
+          "yaw_diff": 1.5621396234561509,
+          "pitch_diff": 22.558742415828014,
+          "roll_diff": 0.6362435126764296
+        },
+        "phone": {
+          "count_diff": 0
+        }
+      }
+    },
+    {
+      "frame1": 100,
+      "frame2": 105,
+      "results": {
+        "identity": {
+          "distance_diff": 2.46087646484375,
+          "match_changed": false
+        },
+        "gaze": {
+          "angle_diff": 4.337006856022796,
+          "flag_changed": false
+        },
+        "headpose": {
+          "yaw_diff": 3.1946568762662544,
+          "pitch_diff": 16.365606557223806,
+          "roll_diff": 5.136452878382556
+        },
+        "phone": {
+          "count_diff": 0
+        }
+      }
+    },
+    {
+      "frame1": 105,
+      "frame2": 110,
+      "results": {
+        "identity": {
+          "distance_diff": 0.6429672241210938,
+          "match_changed": false
+        },
+        "gaze": {
+          "angle_diff": 2.448590186635201,
+          "flag_changed": false
+        },
+        "headpose": {
+          "yaw_diff": 22.470968065379328,
+          "pitch_diff": 43.371402159971005,
+          "roll_diff": 22.838233515855663
+        },
+        "phone": {
+          "count_diff": 0
+        }
+      }
+    },
+    {
+      "frame1": 110,
+      "frame2": 115,
+      "results": {
+        "identity": {
+          "distance_diff": 4.7419891357421875,
+          "match_changed": false
+        },
+        "gaze": {
+          "angle_diff": 98.59814972817358,
+          "flag_changed": true
+        },
+        "headpose": {
+          "yaw_diff": 43.6430969914957,
+          "pitch_diff": 1.4108539016988202,
+          "roll_diff": 72.93220121097646
+        },
+        "phone": {
+          "count_diff": 0
+        }
+      }
+    },
+    {
+      "frame1": 115,
+      "frame2": 120,
+      "results": {
+        "identity": {
+          "distance_diff": Infinity,
+          "match_changed": false
+        },
+        "gaze": {
+          "angle_diff": 0.0,
+          "flag_changed": false
+        },
+        "headpose": {
+          "yaw_diff": 0.0,
+          "pitch_diff": 0.0,
+          "roll_diff": 0.0
+        },
+        "phone": {
+          "count_diff": 0
+        }
+      }
+    },
+    {
+      "frame1": 120,
+      "frame2": 125,
+      "results": {
+        "identity": {
+          "distance_diff": NaN,
+          "match_changed": false
+        },
+        "gaze": {
+          "angle_diff": 0.0,
+          "flag_changed": false
+        },
+        "headpose": {
+          "yaw_diff": 0.0,
+          "pitch_diff": 0.0,
+          "roll_diff": 0.0
+        },
+        "phone": {
+          "count_diff": 0
+        },
+        "persons": {
+          "count_diff": 0
+        }
+      }
+    },
+    {
+      "frame1": 125,
+      "frame2": 130,
+      "results": {
+        "identity": {
+          "distance_diff": NaN,
+          "match_changed": false
+        },
+        "gaze": {
+          "angle_diff": 0.0,
+          "flag_changed": false
+        },
+        "headpose": {
+          "yaw_diff": 0.0,
+          "pitch_diff": 0.0,
+          "roll_diff": 0.0
+        },
+        "phone": {
+          "count_diff": 0
+        },
+        "persons": {
+          "count_diff": 0
+        }
+      }
+    },
+    {
+      "frame1": 130,
+      "frame2": 135,
+      "results": {
+        "identity": {
+          "distance_diff": NaN,
+          "match_changed": false
+        },
+        "gaze": {
+          "angle_diff": 0.0,
+          "flag_changed": false
+        },
+        "headpose": {
+          "yaw_diff": 0.0,
+          "pitch_diff": 0.0,
+          "roll_diff": 0.0
+        },
+        "phone": {
+          "count_diff": 0
+        },
+        "persons": {
+          "count_diff": 0
+        }
+      }
+    },
+    {
+      "frame1": 135,
+      "frame2": 140,
+      "results": {
+        "identity": {
+          "distance_diff": NaN,
+          "match_changed": false
+        },
+        "gaze": {
+          "angle_diff": 0.0,
+          "flag_changed": false
+        },
+        "headpose": {
+          "yaw_diff": 0.0,
+          "pitch_diff": 0.0,
+          "roll_diff": 0.0
+        },
+        "phone": {
+          "count_diff": 0
+        },
+        "persons": {
+          "count_diff": 0
+        }
+      }
+    },
+    {
+      "frame1": 140,
+      "frame2": 145,
+      "results": {
+        "identity": {
+          "distance_diff": NaN,
+          "match_changed": false
+        },
+        "gaze": {
+          "angle_diff": 0.0,
+          "flag_changed": false
+        },
+        "headpose": {
+          "yaw_diff": 0.0,
+          "pitch_diff": 0.0,
+          "roll_diff": 0.0
+        },
+        "phone": {
+          "count_diff": 0
+        },
+        "persons": {
+          "count_diff": 0
+        }
+      }
+    },
+    {
+      "frame1": 145,
+      "frame2": 150,
+      "results": {
+        "identity": {
+          "distance_diff": NaN,
+          "match_changed": false
+        },
+        "gaze": {
+          "angle_diff": 0.0,
+          "flag_changed": false
+        },
+        "headpose": {
+          "yaw_diff": 0.0,
+          "pitch_diff": 0.0,
+          "roll_diff": 0.0
+        },
+        "phone": {
+          "count_diff": 0
+        },
+        "persons": {
+          "count_diff": 0
+        }
+      }
+    },
+    {
+      "frame1": 150,
+      "frame2": 155,
+      "results": {
+        "identity": {
+          "distance_diff": NaN,
+          "match_changed": false
+        },
+        "gaze": {
+          "angle_diff": 0.0,
+          "flag_changed": false
+        },
+        "headpose": {
+          "yaw_diff": 0.0,
+          "pitch_diff": 0.0,
+          "roll_diff": 0.0
+        },
+        "phone": {
+          "count_diff": 0
+        },
+        "persons": {
+          "count_diff": 0
+        }
+      }
+    },
+    {
+      "frame1": 155,
+      "frame2": 160,
+      "results": {
+        "identity": {
+          "distance_diff": NaN,
+          "match_changed": false
+        },
+        "gaze": {
+          "angle_diff": 0.0,
+          "flag_changed": false
+        },
+        "headpose": {
+          "yaw_diff": 0.0,
+          "pitch_diff": 0.0,
+          "roll_diff": 0.0
+        },
+        "phone": {
+          "count_diff": 0
+        },
+        "persons": {
+          "count_diff": 0
+        }
+      }
+    },
+    {
+      "frame1": 160,
+      "frame2": 165,
+      "results": {
+        "identity": {
+          "distance_diff": NaN,
+          "match_changed": false
+        },
+        "gaze": {
+          "angle_diff": 0.0,
+          "flag_changed": false
+        },
+        "headpose": {
+          "yaw_diff": 0.0,
+          "pitch_diff": 0.0,
+          "roll_diff": 0.0
+        },
+        "phone": {
+          "count_diff": 0
+        },
+        "persons": {
+          "count_diff": 0
+        }
+      }
+    },
+    {
+      "frame1": 165,
+      "frame2": 170,
+      "results": {
+        "identity": {
+          "distance_diff": NaN,
+          "match_changed": false
+        },
+        "gaze": {
+          "angle_diff": 0.0,
+          "flag_changed": false
+        },
+        "headpose": {
+          "yaw_diff": 0.0,
+          "pitch_diff": 0.0,
+          "roll_diff": 0.0
+        },
+        "phone": {
+          "count_diff": 0
+        },
+        "persons": {
+          "count_diff": 0
+        }
+      }
+    },
+    {
+      "frame1": 170,
+      "frame2": 175,
+      "results": {
+        "identity": {
+          "distance_diff": NaN,
+          "match_changed": false
+        },
+        "gaze": {
+          "angle_diff": 0.0,
+          "flag_changed": false
+        },
+        "headpose": {
+          "yaw_diff": 0.0,
+          "pitch_diff": 0.0,
+          "roll_diff": 0.0
+        },
+        "phone": {
+          "count_diff": 0
+        },
+        "persons": {
+          "count_diff": 0
+        }
+      }
+    }
+  ],
+  "total_comparisons": 35
+}
