@@ -152,9 +152,11 @@ docker run -v $(pwd)/downloads:/app/downloads \
 ```
 
 ## Performance Metrics
+```markdown
 | Video Length | Frame Skip | Processing Time | Hardware        |
 |--------------|------------|-----------------|-----------------|  |
 | 60 minutes   | 10         | ~18 minutes     | GPU (RTX 3080)  |
+```
 
 ## License
 MIT License - See [LICENSE](LICENSE) for details
