@@ -1,4 +1,3 @@
-﻿```markdown
 # Automated Exam Proctoring System
 
 ## Overview
@@ -159,4 +158,4 @@ docker run -v $(pwd)/downloads:/app/downloads \
 
 ## License
 MIT License - See [LICENSE](LICENSE) for details
-```
+
