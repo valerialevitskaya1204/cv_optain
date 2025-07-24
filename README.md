@@ -1,7 +1,7 @@
 # Automated Exam Proctoring System
 
 ## Overview
-This solution enables automated detection of student attributes (gaze direction, head position) and suspicious activities (phone usage, identity changes) during exams, replacing manual proctoring efforts. The system transforms raw videos automatically into concise reports using LLMs. By processing key frames and using efficient models, the solution can monitor large videos in acceptable time. The modular design allows seamless integration of new detection models.
+This solution enables automated detection of student attributes (gaze direction, head position) and suspicious activities (phone usage, identity changes) during exams, replacing manual proctoring efforts. The system transforms raw videos automatically into reports using LLMs. By processing key frames and using efficient models, the solution can monitor large videos in acceptable time. The design allows integration of new detection models.
 
 ## Key Features
 - 🎭 Multi-model inference pipeline (gaze, head pose, identity, phone, persons)
