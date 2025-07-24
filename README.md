@@ -45,7 +45,7 @@ CV_INFERENCE_PROJECT/
 ## Installation
 ```bash
 # Clone repository
-git clone https://github.com/yourusername/cv_inference_project.git
+git clone https://github.com/valerialevitskaya1204/cv_optain.git
 cd cv_inference_project
 
 # Install dependencies
